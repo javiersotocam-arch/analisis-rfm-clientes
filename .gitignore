@@ -1,0 +1,10 @@
+# Datos del máster y tablones generados (no se suben)
+00_Datasets/
+*.csv
+
+# Credenciales
+.env
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
